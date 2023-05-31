@@ -26,7 +26,7 @@ Welcome to EcoMind, an underwater adventure designed to inspire environmental co
 
 Equipped with your virtual diving gear, you'll embark on exciting expeditions to collect trash such as plastic bottles and cans that threaten the ocean. As time ticks away, you'll race against the clock to gather as much as possible to finish the mission.
 
-As you progress, you'll unlock new equipment and face new challenges. Each Eequipment locked is made of recycled plastic and cans that you are collecting from the water.
+As you progress, you'll unlock new equipment and face new challenges. Each Equipment locked is made of recycled plastic and cans that you are collecting from the water.
 
 Ultimately, your goal in EcoMind is to complete all the missions and earn the prestigious EcoMind Trophy, symbolizing your readiness to make a lasting difference for a greener future and bring positive change to our planet.
 
